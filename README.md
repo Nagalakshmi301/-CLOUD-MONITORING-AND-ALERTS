@@ -16,11 +16,12 @@ MENTOR: NEELA SANTHOSH
 
 This repository contains the configuration and documentation for setting up cloud monitoring and alerting for the Echomate Lite application hosted on AWS ECS, using AWS CloudWatch.
 
-✅ Objective
+Objective
 To implement real-time monitoring, custom dashboards, and automated alerting for a cloud-based application using AWS CloudWatch, ensuring observability and proactive issue detection.
 
-🛠️ What Was Done
+What Was Done
 1. Enabled Monitoring for ECS Application
+   
 Application: Echomate Lite (MERN stack)
 
 Deployed on: AWS ECS with Fargate launch type
@@ -51,6 +52,11 @@ AWS CloudWatch ( Metrics, Dashboards, Alarms)
 
 
 # Output:
+
+
+![Image](https://github.com/user-attachments/assets/9923eb17-0cde-4ddc-9ef0-c7f2f3c7fcb6)
+![Image](https://github.com/user-attachments/assets/f62419c0-0838-48d4-a3b9-a6be140f017d)
+![Image](https://github.com/user-attachments/assets/8dc637bc-9a1a-4eb8-a6b1-c9a16c154a3a)
 
 
 
