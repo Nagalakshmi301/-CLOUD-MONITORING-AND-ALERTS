@@ -28,7 +28,6 @@ Deployed on: AWS ECS with Fargate launch type
 
 Verified that ECS was sending CPU, memory metrics to CloudWatch.
 
-
 2. Created CloudWatch Dashboard
 
 Added visual widgets for:
@@ -50,9 +49,7 @@ AWS ECS
 
 AWS CloudWatch ( Metrics, Dashboards, Alarms)
 
-
 # Output:
-
 
 ![Image](https://github.com/user-attachments/assets/9923eb17-0cde-4ddc-9ef0-c7f2f3c7fcb6)
 ![Image](https://github.com/user-attachments/assets/f62419c0-0838-48d4-a3b9-a6be140f017d)
